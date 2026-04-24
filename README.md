@@ -6,7 +6,11 @@ A comprehensive **Power BI dashboard project** analyzing global electricity gene
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](ADD_SCREENSHOT_HERE)
+![Overview](Screenshot 2026-04-24 at 10.06.23.png)
+
+![Trend Analysis](Screenshot 2026-04-24 at 10.07.02.png)
+
+![Country Analysis](Screenshot 2026-04-24 at 10.07.23.png)
 
 ---
 
