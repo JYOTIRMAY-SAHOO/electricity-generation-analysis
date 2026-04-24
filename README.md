@@ -85,6 +85,13 @@ Due to GitHub file size limitations, download the dashboard here:
   * Subcategory
   * Consumption Value
 
+Due to GitHub file size limitations, the dataset is hosted externally.
+
+👉 [Download Dataset (CSV)](https://drive.google.com/file/d/1LxsVRyk-XJNcfLkxpVoVpg2APQ2t3Z8l/view?usp=share_link)
+
+⚠️ **Note:** The dataset contains global electricity generation data across countries, years, and energy sources. Download and use it in Power BI for full analysis.
+
+
 ---
 
 ## 🎯 Conclusion
